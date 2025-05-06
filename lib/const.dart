@@ -1,0 +1,2 @@
+const String MAP_TOKEN =
+    'pk.eyJ1IjoiYWJpcmhhc2Fuc2h1dm83ODkiLCJhIjoiY21hYXBibWpuMGZqcjJqcHFic2ptemp0OCJ9.d9oVSgmbD3GvN0OcBCj2ig';
